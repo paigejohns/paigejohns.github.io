@@ -1,0 +1,252 @@
+body{
+	font-family: 	Roboto, Arial, sans-serif;
+}
+
+#wrapper{
+	width:	 		1200px;
+	margin: 		0 auto;
+}
+
+#header{
+	height:				 10px;
+	width:				 100%;
+	background-color: 	green;
+	margin-bottom:		100px;
+	color:				green;
+}
+
+#header h1{
+	border-bottom: 	2px solid green;
+	padding: 		5px;
+	margin: 		0 auto;
+}
+
+#main_pic{
+	box-shadow: 	5px 5px 5px #888888;
+}
+
+#main_nav{
+	margin:			10px 400px 0 300px;
+}
+
+#main_nav a{
+	text-decoration: none;
+	color: 			green;
+	font-size:		22px;
+}
+
+#main_nav a:hover{
+	font-weight: bold;
+}
+
+#main_nav li{
+	display: 	inline-block;
+	width: 		500px;
+	text-align: center;
+}
+
+#pic{
+	padding-top:	10px;
+	border:		solid black 1px;
+}
+
+#square{
+	padding-top:	10px;
+	border:		solid black 5px;
+}
+
+#main_content{
+	width: 			800px;
+	float: 			left;
+	margin: 		0px 50px 50px 200px;
+	line-height: 	2em;
+	font-size:		25px;
+}
+
+#title{
+	margin: 	0 auto;
+	color: 		green;
+	font-size:	25px;
+}
+
+#footer{
+	font-size:			25px;
+	padding-top:		10px;
+	padding-left:		90px;
+}
+
+#footer a:hover{
+	font-weight: bold;
+}
+
+#footer ul{
+	position: 	absolute;
+	margin: 	100px 0 0 400px;
+}
+
+#footer li{
+	display:	 	inline-block;
+	width:			 125px;
+	color:			 green;
+	text-align: 	center;
+}
+
+#footer a{
+	color: 			green;
+	text-decoration: none;
+}
+
+#talk{
+	font-family:	Hobo Std;
+}
+
+#email{
+	color:			green;
+	border:			black solid;
+	float: 			left;
+	font-size:		26px;
+	padding:		30px 30px;
+	font-family:	courier;
+	margin-right:	250px;
+}
+
+#logo{
+	float:			 left;
+}
+
+#profile_img{
+	border: solid black 5px;
+	background-color: black;
+}
+
+#social{
+		float:			left;
+		margin-bottom:	100px;
+		margin-left:	900px;
+		margin-top:		13px;
+		position:		absolute;
+}
+
+#social a{
+	color: 			black;
+}
+
+#social li{
+		line-height: 	5em;
+}
+
+#head h2{
+	color:	green;
+}
+
+#ed h2{
+	color:	green;
+}
+
+#personal h2{
+	color:	green;
+}
+
+#awards h2{
+	color:	green;
+}
+
+#extra h2{
+	color:	green;
+}
+
+#footer1{
+	font-size:			25px;
+	padding-top:		1px;
+	padding-left:		90px;
+}
+
+#footer1 a:hover{
+	font-weight: bold;
+}
+
+#footer1 ul{
+	position: 	absolute;
+	margin: 	100px 0 0 400px;
+}
+
+#footer1 li{
+	display:	 	inline-block;
+	width:			 125px;
+	color:			 green;
+	text-align: 	center;
+}
+
+#footer1 a{
+	color: 			green;
+	text-decoration: none;
+}
+
+#comp h2{
+	color: green;
+}
+
+#newspaper_img{
+	border: solid blue;
+	box-shadow: 10px 5px 5px #888888;
+}
+
+#union_img{
+	border: solid green;
+	box-shadow: 	5px 10px 5px #888888;
+}
+
+#bus_img{
+	border: solid blue;
+	box-shadow: 	5px 5px 10px #888888;
+}
+
+#footer2{
+	font-size:			25px;
+	padding-top:		1px;
+	padding-left:		90px;
+}
+
+#footer2 a:hover{
+	font-weight: bold;
+}
+
+#footer2 ul{
+	position: 	absolute;
+	margin: 	100px 0 0 400px;
+}
+
+#footer2 li{
+	display:	 	inline-block;
+	width:			 125px;
+	color:			 green;
+	text-align: 	center;
+}
+
+#footer2 a{
+	color: 			green;
+	text-decoration: none;
+}
+
+#PFEW_img{
+	border:	solid;
+}
+
+#snowplow_img{
+	border:	solid;
+}
+
+#youtube{
+	padding-left:	10px;
+	padding-top:	5px;
+}
+
+#video_img{
+	padding:	10px;
+}
+
+#background{
+	background-repeat:repeat-y;
+}
+
+
